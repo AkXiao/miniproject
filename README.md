@@ -1,6 +1,6 @@
 # Simple HTML5 (Typescript + PixiJS) Farm Game
 
-# [DEMO](https://volodalexey.github.io/simple-html5-farm-game/)
+# [DEMO]()
 
 Minimal functionality:
 - farm field 8x8
