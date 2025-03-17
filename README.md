@@ -1,4 +1,4 @@
-# Simple HTML5 (Typescript + PixiJS) Farm Game
+# MiniProject Farm Game
 
 # [DEMO]()
 
